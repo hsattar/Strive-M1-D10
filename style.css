@@ -21,7 +21,7 @@ h1 {
 }
 
 a {
-    color: red;
+    color: yellow;
 }
 
 .border {
@@ -50,7 +50,7 @@ td {
     border: 1px solid lightgreen
 }
 
-tr.tr-border td,
-tr.tr-border th {
-    border: 1px dotted red;
+tr.border-bottom td,
+tr.border-bottom th {
+    border-bottom: 1px dotted red;
 }
