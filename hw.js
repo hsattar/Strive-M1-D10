@@ -1,4 +1,4 @@
-// JS EXERCISES
+// JS EXERCISES - ALL DONE
 
 // 21) Given variables x = "John" and y = "Doe", write on the console "John <> Doe"
 
