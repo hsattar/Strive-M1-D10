@@ -54,3 +54,7 @@ tr.border-bottom td,
 tr.border-bottom th {
     border-bottom: 1px dotted red;
 }
+
+.toggle {
+    display: none;
+}
